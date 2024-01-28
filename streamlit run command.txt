@@ -1,0 +1,1 @@
+streamlit run "D:\python project\project 2\Multiple Disease\Multiple_Disease_pred.py.py"
